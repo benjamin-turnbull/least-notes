@@ -2,8 +2,7 @@
 
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     int amount, twenty, ten, five, one;
 
     printf("Enter an amount:\n");
